@@ -23,6 +23,21 @@ node .\app.js add --title="xyz" --body="sdsd"
     
       
 ### To remove note
+```
+node .\app.js remove --title="xyz"
+```
+
+
+### To list all notes
+```
+node .\app.js list
+```
+
+### To read a particular node
+```
+node .\app.js read --title="xyz"
+```
+
 
 
 
