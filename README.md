@@ -6,15 +6,20 @@
       
        
 ## How to run this on your machine ?
-Download this repo to your local storage or clone it.  
-Then open the app.js file.  
-Now if you use VS code then open the terminal and write:  
-### npm install  
+Step1 - Download this repo to your local storage or clone it.  
+Step2 - Then open the app.js file in VS code.  
+Step3 - open the terminal and write:  
+### **npm install**  
 This will install all the dependencies.  
   
     
-#### To add note use   
-##### **node .\app.js add --title="xyz" --body="sdsd"  
+### To add note   
+##### **node .\app.js add --title="xyz" --body="sdsd"**
+  
+    
+      
+### To remove note
+
 
 
 ![image](https://user-images.githubusercontent.com/50983011/113437303-06cfe500-9404-11eb-8dad-6b9b6d8f6344.png)
