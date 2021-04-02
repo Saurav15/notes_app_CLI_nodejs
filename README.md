@@ -1,5 +1,5 @@
-# notes_app_CLI_nodejs
-## With this app you can add,remove,list and read your notes using CLI.
+# notes_app_nodejs
+### With this app you can add,remove,list and read your notes using CLI.
 #### The notes that you make will be stored in the JSON file.
   
     
