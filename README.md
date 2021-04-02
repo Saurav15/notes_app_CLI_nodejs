@@ -16,25 +16,25 @@ npm install
 This will install all the dependencies.  
   
     
-### To add note     :heavy_plus_sign:
+### To add note   &nbsp; &nbsp; :heavy_plus_sign:
 ```
 node .\app.js add --title="xyz" --body="sdsd"
 ```
   
     
       
-### To remove note  :heavy_minus_sign:
+### To remove note &nbsp; &nbsp;  :heavy_minus_sign:
 ```
 node .\app.js remove --title="xyz"
 ```
 
 
-### To list all notes  :scroll:
+### To list all notes &nbsp; :scroll:
 ```
 node .\app.js list
 ```
 
-### To read a particular node   :bookmark_tabs:
+### To read a particular node  &nbsp;  :bookmark_tabs:
 ```
 node .\app.js read --title="xyz"
 ```
