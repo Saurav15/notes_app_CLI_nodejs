@@ -16,7 +16,7 @@ npm install
 This will install all the dependencies.  
   
     
-### To add note   :heavy_plus_sign:
+### To add note     :heavy_plus_sign:
 ```
 node .\app.js add --title="xyz" --body="sdsd"
 ```
