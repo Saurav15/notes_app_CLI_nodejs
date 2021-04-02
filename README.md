@@ -1,4 +1,4 @@
-# notes_cli_app
+# **notes_cli_app**
 
 #### With this app you can add,remove,list and read your notes using CLI.
 #### The notes that you make will be stored in the JSON file.
