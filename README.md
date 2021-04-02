@@ -8,13 +8,17 @@
 ## How to run this on your machine ?
 Step1 - Download this repo to your local storage or clone it.  
 Step2 - Then open the app.js file in VS code.  
-Step3 - open the terminal and write:  
-### **npm install**  
+Step3 - open the terminal and write: 
+```
+npm install
+```
 This will install all the dependencies.  
   
     
 ### To add note   
-##### **node .\app.js add --title="xyz" --body="sdsd"**
+```
+node .\app.js add --title="xyz" --body="sdsd"
+```
   
     
       
